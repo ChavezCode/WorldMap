@@ -1,2 +1,1 @@
-# D280
-D280 Task
+Through this project, I learned how to integrate SVG graphics into an Angular web application, making them interactive by linking mouse events to dynamic actions. I gained practical experience in fetching data from external APIs like GeoNames and WorldBank, and displaying relevant country information such as capital, region, and income level in real time. This involved using Angular’s HTTP client to handle API requests and map the data to the UI.
